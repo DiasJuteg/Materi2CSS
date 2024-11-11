@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,h2 {
+    color: green;
+}
+
+ul li a {
+    color:blue
+}
+
+ol li a {
+    color: red;
+}
+
+#p1 {
+    color: grey;
+}
+
+#p2 {
+    color: darkorange;
+}
+
+.cetak {
+    color:black;
+    font-weight: bolder;
+}
+
+#p2 {
+    font-size: 30px;
+}
+
